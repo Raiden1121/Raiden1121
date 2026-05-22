@@ -1,10 +1,10 @@
 # Hi, I'm Raiden
-I'm an Information Management student interested in AI, Machine Learning, Web Development, and Database Systems.
+I'm an Information Management student interested in AI, Machine Learning, Deep Learning, Web Development, and Database Systems.
 
 ## About Me
 - Information Management student
 - Interested in AI, Machine Learning, Deep learning and Cybersecurity applications
-- Python, React, PostgreSQL, Docker
+- Python, React, PostgreSQL, Docker, Node.js
 
 ## Featured Projects
 
