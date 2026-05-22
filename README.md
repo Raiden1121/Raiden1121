@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Raiden
+I'm an Information Management student interested in AI, Machine Learning, Web Development, and Database Systems.
 
-<!--
-**Raiden1121/Raiden1121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Information Management student
+- Interested in AI, Machine Learning, Deep learning and Cybersecurity applications
+- Python, React, PostgreSQL, Docker
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### NCU Secondhand Marketplace
+A campus secondhand trading platform for National Central University students.
+
+- Built with React, Express, PostgreSQL, Prisma, and Socket.IO
+- Includes authentication, product posting, image upload, and real-time features
+- Includes carbon-saving estimation for SDGs-related functionality
+
+
+### Wi-Fi Sensing / CSI Research Practice
+A research-oriented project exploring Wi-Fi sensing using CSI and BFI-related data.
+
+- Worked with Raspberry Pi, Nexmon CSI, UDP traffic, and packet capture
+- Studied CSI/BFI extraction, preprocessing, and activity sensing workflows
+
+## GitHub Stats
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Raiden1121&show_icons=true&theme=vue-dark&line_height=28" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raiden1121&theme=vue-dark&layout=compact&hide=less" />
