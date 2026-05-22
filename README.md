@@ -8,14 +8,6 @@ I'm an Information Management student interested in AI, Machine Learning, Web De
 
 ## Featured Projects
 
-### NCU Secondhand Marketplace
-A campus secondhand trading platform for National Central University students.
-
-- Built with React, Express, PostgreSQL, Prisma, and Socket.IO
-- Includes authentication, product posting, image upload, and real-time features
-- Includes carbon-saving estimation for SDGs-related functionality
-
-
 ### Wi-Fi Sensing / CSI Research Practice
 A research-oriented project exploring Wi-Fi sensing using CSI and BFI-related data.
 
@@ -24,5 +16,4 @@ A research-oriented project exploring Wi-Fi sensing using CSI and BFI-related da
 
 ## GitHub Stats
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Raiden1121&show_icons=true&theme=vue-dark&line_height=28" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raiden1121&theme=vue-dark&layout=compact&hide=less" />
+![Stats](./profile/stats.svg)
