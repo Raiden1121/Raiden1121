@@ -14,6 +14,3 @@ A research-oriented project exploring Wi-Fi sensing using CSI and BFI-related da
 - Worked with Raspberry Pi, Nexmon CSI, UDP traffic, and packet capture
 - Studied CSI/BFI extraction, preprocessing, and activity sensing workflows
 
-## GitHub Stats
-
-![Stats](./profile/stats.svg)
